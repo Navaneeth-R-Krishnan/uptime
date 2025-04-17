@@ -25,6 +25,7 @@
   ],
   "dependencies": {
     "express": "^5.1.0",
-    "jsonwebtoken": "^9.0.2"
+    "jsonwebtoken": "^9.0.2",
+    "next": "15.2.4"
   }
 }
